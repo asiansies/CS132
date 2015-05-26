@@ -4,6 +4,7 @@
  * 
  * MatrixHW contains methods that run linear algebra operations on
  * matrices.
+ *
  */
 
 public class MatrixHW {
